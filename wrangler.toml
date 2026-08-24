@@ -1,0 +1,14 @@
+name = "dayu-shuangshu"
+compatibility_date = "2026-08-24"
+pages_build_output_dir = "./dist"
+
+# D1 数据库
+# 创建：npx wrangler d1 create dayu-shuangshu-db
+# 把返回的 database_id 填到下面
+[[d1_databases]]
+binding = "DB"
+database_name = "dayu-shuangshu-db"
+database_id = "TBD_FILL_AFTER_D1_CREATE"
+
+# Cloudflare Pages 项目元数据（首次部署后自动填充）
+# 部署：npx wrangler pages deploy dist

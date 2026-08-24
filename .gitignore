@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+dist/
+.wrangler/
+.serve_pid
+_*.ps1
+_serve.js
+_create_repo.js
+preview_screenshots/
+preview_*.png
+nul
+*.tmp
+.idea/
+.vscode/
+
+# 保留以下两个文件（不能忽略）
+# scripts/publish.js  # 必须保留，这是推送脚本
+# README.md

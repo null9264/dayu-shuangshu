@@ -3,12 +3,13 @@ compatibility_date = "2026-08-24"
 pages_build_output_dir = "./dist"
 
 # D1 数据库
-# 创建：npx wrangler d1 create dayu-shuangshu-db
-# 把返回的 database_id 填到下面
+# UUID 已填入（创建于 2026-08-24）
 [[d1_databases]]
 binding = "DB"
 database_name = "dayu-shuangshu-db"
-database_id = "TBD_FILL_AFTER_D1_CREATE"
+database_id = "0b680d91-b3fd-48bb-8aa1-2a64b9d827b5"
+migrations_dir = "./migrations"
 
-# Cloudflare Pages 项目元数据（首次部署后自动填充）
-# 部署：npx wrangler pages deploy dist
+# Cloudflare Pages 项目
+# 项目创建于 2026-08-24
+# 首次部署：wrangler pages deploy dist --project-name dayu-shuangshu

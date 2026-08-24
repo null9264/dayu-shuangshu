@@ -1,0 +1,191 @@
+{
+  "assets/characters_孙佳琪.jpg": {
+    "contentType": "image/jpeg"
+  },
+  "assets/characters_王凯新.jpg": {
+    "contentType": "image/jpeg"
+  },
+  "assets/charts.js": {
+    "contentType": "application/javascript"
+  },
+  "assets/scene_卷一北疆雪.jpg": {
+    "contentType": "image/jpeg"
+  },
+  "assets/scene_卷五长街火.jpg": {
+    "contentType": "image/jpeg"
+  },
+  "assets/video_卷五主帅之战.mp4": {
+    "contentType": "video/mp4"
+  },
+  "index.html": {
+    "contentType": "text/html"
+  },
+  "_shared/fonts/ArsenalSC-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/BigShoulders-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/BigShoulders-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Boldonse-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/BricolageGrotesque-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/BricolageGrotesque-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/CrimsonPro-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/CrimsonPro-Italic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/CrimsonPro-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/DMMono-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/EricaOne-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/GeistMono-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/GeistMono-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Gloock-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/IBMPlexMono-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/IBMPlexMono-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/IBMPlexSerif-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/IBMPlexSerif-BoldItalic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/IBMPlexSerif-Italic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/IBMPlexSerif-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/InstrumentSans-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/InstrumentSans-BoldItalic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/InstrumentSans-Italic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/InstrumentSans-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/InstrumentSerif-Italic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/InstrumentSerif-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Italiana-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/JetBrainsMono-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/JetBrainsMono-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Jura-Light.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Jura-Medium.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/LibreBaskerville-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Lora-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Lora-BoldItalic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Lora-Italic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Lora-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/NationalPark-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/NationalPark-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/NothingYouCouldDo-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Outfit-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Outfit-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/PixelifySans-Medium.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/PoiretOne-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/RedHatMono-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/RedHatMono-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Silkscreen-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/SmoochSans-Medium.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Tektur-Medium.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/Tektur-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/WorkSans-Bold.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/WorkSans-BoldItalic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/WorkSans-Italic.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/WorkSans-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/fonts/YoungSerif-Regular.ttf": {
+    "contentType": "font/ttf"
+  },
+  "_shared/js/echarts.min.js": {
+    "contentType": "application/javascript"
+  },
+  "_shared/js/mermaid.min.js": {
+    "contentType": "application/javascript"
+  }
+}
